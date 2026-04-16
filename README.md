@@ -9,3 +9,8 @@ Semana 01:
 - VS Code
 - Lógica de Programação
 - JS
+
+Semana 02:
+- JS
+- Variáveis
+- Funções
