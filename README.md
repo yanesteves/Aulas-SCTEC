@@ -1,4 +1,11 @@
 # Aulas SCTEC
 Conteúdo com as aulas do SCTEC 2026
 
-Atualizacao da aula 16/04
+# Conteudos
+
+Semana 01:
+- Trello
+- Github e Github Desktop
+- VS Code
+- Lógica de Programação
+- JS
